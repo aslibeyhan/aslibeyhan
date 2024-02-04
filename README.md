@@ -5,7 +5,8 @@
 - 🌱 I'm currently learning topics such as Docker, Microservices and JWT.
 - 👯 I'm looking to collaborate on various projects with teams that aim to enhance their skills by working on different initiatives
 - 💬 Ask me about any tech-related stuff because being involved in my beloved work makes me happy.
-- 📫 How to reach me: aslibeyhans@gmail.
+- 📫 How to reach me: [aslibeyhans@gmail.com](mailto:aslibeyhans@gmail.com)
+
 
 ## 🌐 Socials:                                                                                                             
 ![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)  <br>
