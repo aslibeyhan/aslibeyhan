@@ -1,4 +1,4 @@
-#  🌍 _Hi Everyone_   👩🏻‍🦰 _I'm Asli_ 
+#  🌍 _Hi Everyone_   👩🏻‍🦰 _I'm Asli_    ![](https://komarev.com/ghpvc/?username=aslibeyhan&color=blueviolet&style=for-the-badge) 
 
 
 - 🔭 I am presently engaged in full-stack projects, predominantly working on the backend using Java.
@@ -8,16 +8,16 @@
 - 📫 How to reach me: aslibeyhans@gmail.
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)] 
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asl%C4%B1-beyhan-849b2a1a3/)  
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21727742/aslibeyhan?tab=profile) 
 
-![](https://komarev.com/ghpvc/?username=aslibeyhan&color=blueviolet&style=for-the-badge) 
+
 
 ## 💻 Tech Stacks:
 |Backend    |Frontend        |Database        |DevOps          |
 |----|--------|--------|----------|
-| ![BackendTechs](https://skillicons.dev/icons?i=c++,c#,java,spring,hibernate,maven) | ![Front](https://skillicons.dev/icons?i=javascript,typescript,react,angular,redux,bootstrap,css,html) |  ![DBTechs](https://skillicons.dev/icons?i=postgresql,mssql,oracle) | ![DevOps](https://skillicons.dev/icons?i=git,swagger,postman,docker,kubernetes,aws) |
+| ![BackendTechs](https://skillicons.dev/icons?i=java,spring,hibernate,maven) | ![Front](https://skillicons.dev/icons?i=javascript,typescript,react,angular,redux,bootstrap,css,html) |  ![DBTechs](https://skillicons.dev/icons?i=postgresql,mssql,oracle) | ![DevOps](https://skillicons.dev/icons?i=git,swagger,postman,docker,kubernetes,aws) |
 
 # 📊 GitHub Stats:
 |    |    |    |
