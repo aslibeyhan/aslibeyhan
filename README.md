@@ -1,4 +1,4 @@
-### Hi there 👋
+#  🌍 _Hi Everyone_   👩🏻‍🦰 _I'm Asli_ 
 
 <!--
 **aslibeyhan/aslibeyhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![](https://komarev.com/ghpvc/?username=aslibeyhan&color=blueviolet&style=for-the-badge)
+
+
+
