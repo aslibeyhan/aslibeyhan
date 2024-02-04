@@ -1,4 +1,4 @@
-#  🌍 _Hi Everyone_   👩🏻‍🦰 _I'm Asli_    ![](https://komarev.com/ghpvc/?username=aslibeyhan&color=blueviolet&style=for-the-badge) 
+#  🌍 _Hi Everyone_   👩🏻‍🦰 _I'm Asli_   
 
 
 - 🔭 I am presently engaged in full-stack projects, predominantly working on the backend using Java.
@@ -7,8 +7,8 @@
 - 💬 Ask me about any tech-related stuff because being involved in my beloved work makes me happy.
 - 📫 How to reach me: aslibeyhans@gmail.
 
-## 🌐 Socials:
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)<br>
+## 🌐 Socials:  
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)   ![](https://komarev.com/ghpvc/?username=aslibeyhan&color=blueviolet&style=for-the-badge)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asl%C4%B1-beyhan-849b2a1a3/) <br> 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21727742/aslibeyhan?tab=profile) 
 
