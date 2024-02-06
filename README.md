@@ -21,10 +21,15 @@
 | ![BackendTechs](https://skillicons.dev/icons?i=cpp,cs,dotnet,java,spring,hibernate,maven) | ![Front](https://skillicons.dev/icons?i=javascript,typescript,react,angular,redux,bootstrap,css,html) |  ![DBTechs](https://skillicons.dev/icons?i=postgresql) | ![DevOps](https://skillicons.dev/icons?i=git,postman,docker,kubernetes,aws) |
 
 # 📊 GitHub Stats:
-|    |    |    |
-|---|---|------|
-| ![](https://github-readme-stats.vercel.app/api?username=aslibeyhan&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false) | ![](https://github-readme-streak-stats.herokuapp.com/?user=aslibeyhan&theme=nightowl&hide_border=false) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aslibeyhan&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact) |
+<div align="center">
+<a href="https://github.com/aslibeyhan">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aslibeyhan&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aslibeyhan&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aslibeyhan&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aslibeyhan&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aslibeyhan&theme=2077" height="180em" />
+</div>
 
-
+<p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aslibeyhan&" alt="aslibeyhan" /></p>
 
 
