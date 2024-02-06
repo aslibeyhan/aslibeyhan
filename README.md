@@ -28,8 +28,9 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aslibeyhan&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aslibeyhan&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aslibeyhan&theme=2077" height="180em" />
-</div>
-
 <p style="text-align: center;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aslibeyhan&" alt="aslibeyhan" /></p>
+</div>
+ 
+
 
 
